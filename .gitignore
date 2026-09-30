@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyc
+.streamlit/
+.env
+coink_analisis.png
+usuarios_calificados.csv
