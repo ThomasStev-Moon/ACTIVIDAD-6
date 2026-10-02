@@ -5,3 +5,4 @@ matplotlib
 seaborn 
 pathlib
 pyttsx3
+speech
